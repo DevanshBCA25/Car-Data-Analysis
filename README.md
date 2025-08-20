@@ -45,6 +45,3 @@ This project aims to:
 
 ---
 
-
-## 📂 Project Structure  
-
